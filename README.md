@@ -6,6 +6,8 @@
 2. Fill in your app name, APP_ID and SERVER_SECRET and press `Deploy App`
 3. Make a cup of coffee and wait for heroku to finish :)
 4. Once done you will get an url for your instance, try accessing `https://<heroku url>/access_token?uid=1234` to check if it works
+> Token valid in 3600 seconds by default. If you want to change the expired time, request with the `expiredTs` parameter. e.g. `https://<heroku url>/access_token?uid=1234&expiredTs=7200`
+
 
 ## Console
 
