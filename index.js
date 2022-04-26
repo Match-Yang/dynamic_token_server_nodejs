@@ -21,7 +21,7 @@ function nocache(req, res, next) {
 var generateAccessToken = function (req, resp) {
     resp.header('Access-Control-Allow-Origin', "*")
 
-    var expiredTs = req.query.expiredTs;
+    var expiredTs = req.query.expired_ts;
     if (!expiredTs) {
         expiredTs = 3600;
     }
