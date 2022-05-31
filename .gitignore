@@ -1,3 +1,4 @@
 node_modules/
 *.pkg
 *.exe
+package-lock.json
