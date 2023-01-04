@@ -1,6 +1,15 @@
 # Sample NodeJS Token Server@express
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ZEGOCLOUD/dynamic_token_server_nodejs)
+> **Warning**
+> 
+> Heroku is now charged!!!
+> 
+> Heroku is now charged!!!
+> 
+> Heroku is now charged!!!
+>
+> Please use https://github.com/ZEGOCLOUD/easy_server_nextjs to deploy test server instead!!!
+
 
 1. Click the deploy link above to start
 2. Fill in your app name, APP_ID and SERVER_SECRET and press `Deploy App`
